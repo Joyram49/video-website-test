@@ -1,60 +1,58 @@
-{
-  "tags": [
-    {
-      "id": 1,
-      "title": "javascript"
-    },
-    {
-      "id": 2,
-      "title": "react"
-    },
-    {
-      "id": 3,
-      "title": "css"
-    },
-    {
-      "id": 4,
-      "title": "vscode"
-    },
-    {
-      "id": 5,
-      "title": "tailwind"
-    },
-    {
-      "id": 6,
-      "title": "fullstack"
-    },
-    {
-      "id": 7,
-      "title": "project"
-    },
-    {
-      "id": 8,
-      "title": "sass"
-    },
-    {
-      "id": 9,
-      "title": "bootstrap"
-    },
-    {
-      "id": 10,
-      "title": "node js"
-    },
-    {
-      "id": 11,
-      "title": "next js"
-    },
-    {
-      "id": 12,
-      "title": "Firebase"
-    },
-    {
-      "id": 13,
-      "title": "frontent"
-    },
-    {
-      "id": 14,
-      "title": "backend"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "javascript"
+  },
+  {
+    "id": 2,
+    "title": "react"
+  },
+  {
+    "id": 3,
+    "title": "css"
+  },
+  {
+    "id": 4,
+    "title": "vscode"
+  },
+  {
+    "id": 5,
+    "title": "tailwind"
+  },
+  {
+    "id": 6,
+    "title": "fullstack"
+  },
+  {
+    "id": 7,
+    "title": "project"
+  },
+  {
+    "id": 8,
+    "title": "sass"
+  },
+  {
+    "id": 9,
+    "title": "bootstrap"
+  },
+  {
+    "id": 10,
+    "title": "node js"
+  },
+  {
+    "id": 11,
+    "title": "next js"
+  },
+  {
+    "id": 12,
+    "title": "Firebase"
+  },
+  {
+    "id": 13,
+    "title": "frontent"
+  },
+  {
+    "id": 14,
+    "title": "backend"
+  }
+]
