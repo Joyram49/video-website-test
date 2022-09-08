@@ -1,14 +1,86 @@
 [
-    {
-        "id": 1,
-        "name": "Salary from Google",
-        "type": "income",
-        "amount": 1000000
-    },
-    {
-        "id": 2,
-        "name": "Family Expenses",
-        "type": "expense",
-        "amount": 200000
-    }
+  {
+    "id": 1,
+    "name": "Salary from Google",
+    "type": "income",
+    "amount": 100000
+  },
+  {
+    "id": 2,
+    "name": "Family Expenses",
+    "type": "expense",
+    "amount": 20000
+  },
+  {
+    "id": 3,
+    "name": "Books",
+    "type": "expense",
+    "amount": 2000
+  },
+  {
+    "id": 4,
+    "name": "Pendrive",
+    "type": "expense",
+    "amount": 500
+  },
+  {
+    "id": 5,
+    "name": "Tution",
+    "type": "income",
+    "amount": 5000
+  },
+  {
+    "id": 6,
+    "name": "Electricity Bill",
+    "type": "expense",
+    "amount": 2000
+  },
+  {
+    "id": 7,
+    "name": "Gas Bill",
+    "type": "expense",
+    "amount": 1000
+  },
+  {
+    "id": 8,
+    "name": "Sell Phone",
+    "type": "income",
+    "amount": 7000
+  },
+  {
+    "id": 9,
+    "name": "Water Bill",
+    "type": "expense",
+    "amount": 500
+  },
+  {
+    "id": 10,
+    "name": "Transport Expense",
+    "type": "expense",
+    "amount": 2000
+  },
+  {
+    "id": 11,
+    "name": "Medicine",
+    "type": "expense",
+    "amount": 2500
+  },
+  {
+    "id": 12,
+    "name": "Gift",
+    "type": "expense",
+    "amount": 1000
+  },
+  {
+    "id": 13,
+    "name": "Stipend",
+    "type": "income",
+    "amount": 2000
+  },
+  {
+    "id": 14,
+    "name": "Milk",
+    "type": "expense",
+    "amount": 1000
+  }
 ]
