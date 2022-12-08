@@ -6,6 +6,8 @@ const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 9000;
 
+server.use(jsonServer.bodyParser);
+
 server.use(middlewares);
 server.use(router);
 

@@ -1,7 +1,7 @@
-const todos = require("./data/todos");
-const videos = require("./data/videos");
-const videos2 = require("./data/videos2");
-const transactions = require("./data/transactions");
+const todos = require("./data/todos.json");
+const videos = require("./data/videos.json");
+const videos2 = require("./data/videos2.json");
+const transactions = require("./data/transactions.json");
 const tags = require("./data/tags.json");
 
 module.exports = {
